@@ -18,7 +18,7 @@ While Java's `CountDownLatch` is useful for one-time synchronization, it cannot 
 
 ```scala
 // Add to your build.sbt
-libraryDependencies += "dev.lucasmdjl" %% "scala-resettable-latch" % "0.1.0"
+libraryDependencies += "dev.lucasmdjl" %% "scala-resettable-latch" % "0.2.0"
 ```
 
 ## Usage
