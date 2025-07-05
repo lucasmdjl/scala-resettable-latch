@@ -16,9 +16,9 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package dev.lucasmdjl.scala.resettablelatch
+package dev.lucasmdjl.resettablelatch
 
-import dev.lucasmdjl.scala.delayedfuture.delayed
+import dev.lucasmdjl.delayedfuture.delayed
 import org.scalatest.flatspec.AnyFlatSpecLike
 import org.scalatest.matchers.must.Matchers.{be, noException}
 
